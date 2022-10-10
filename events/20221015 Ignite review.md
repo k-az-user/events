@@ -23,7 +23,7 @@ Microsoft Ignite는 매년 개최되는 Microsoft의 향후를 미리 볼 수 �
 |--------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | <img src = "../events/images/20221015/김도균.png" height = "100" width = "100" > | <b>김도균 Microsoft MVP (Azure)</b><br> 이젠 고인물이 된 Microsoft MVP이자 Microsoft MCT.<br> '처음 배우는 애저'를 비롯해 몇 권을 책을 집필하고 번역했다.|
 |<img src="../events/images/20221015/김영욱.png" height="100" width="100">|<b>김영욱 Microsoft MVP (Azure)</b><br> Dobby is free를 외치며 자유를 찾아나와 AI와 Azure로 주로 일하고 있다. 최근에는 다수의 과정과 특강을 하고 있다. <br> 지금은 Hello AI를 만들어서 다양한 일과 활동을 하고 있다.|
-|<img src="../events/images/20221015/박은정.jpeg" height="100" width="100">|내용준비중|
-|<img src="../events/images/20221015/주신영.png" height="100" width="100">|내용준비중|
+|<img src="../events/images/20221015/박은정.jpeg" height="100" width="100">|<b>박은정 Microsoft MVP (M365 and app)</b><br> [내용 준비중]|
+|<img src="../events/images/20221015/주신영.png" height="100" width="100">|<b>주신영 Korea Azure User Group</b><br> [내용 준비중]|
 
 
