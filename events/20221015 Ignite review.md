@@ -6,7 +6,7 @@ Microsoft Ignite는 매년 개최되는 Microsoft의 향후를 미리 볼 수 �
 
  전체 세션이 영어로 진행되고 그리고 새벽에 행사가 진행되기 때문에 전체 행사를 토크쇼 형태로 편하게 볼 수 있는 온라인 행사를 준비했습니다. 
 
-- 장소: [유튜브 https://www.youtube.com/watch?v=fdxGBdsZnW8](https://www.youtube.com/watch?v=fdxGBdsZnW8)
+- 장소: [유튜브 https://www.youtube.com/watch?v=UdJ5f8yLh0M](https://www.youtube.com/watch?v=UdJ5f8yLh0M)
    [[일정.ics]](../events/images/20221015/Ignite%202022%20%EB%A6%AC%EB%B8%8C%EB%A6%AC%ED%95%91%20%ED%86%A0%ED%81%AC%20%EC%9D%B4%EB%B2%A4%ED%8A%B8.ics)
 - 시간: 2022년 10월 15일 저녁 08:00
 - 대상: 누구나
